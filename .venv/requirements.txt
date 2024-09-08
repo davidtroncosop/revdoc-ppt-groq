@@ -1,0 +1,10 @@
+streamlit
+pandas
+Pillow
+requests
+openpyxl
+openai
+python-dotenv
+pymupdf
+python-pptx
+groq
